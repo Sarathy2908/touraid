@@ -33,7 +33,7 @@ class _RegisPageState extends State<RegisPage> {
               ),
             ),
             SizedBox(
-              height: 45,
+              height: 45
             ),
             Padding(
               padding: EdgeInsets.only(left: 85),
